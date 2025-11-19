@@ -28,8 +28,6 @@
 
 Пример: [GGsel](https://ggsel.net/), [Plati](https://plati.market/)
 
----
-
 ## WantToPay
 
 ![WantToPay интерфейс](../images/pay_cards/2.png)
